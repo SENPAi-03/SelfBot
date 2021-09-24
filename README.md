@@ -1,13 +1,25 @@
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" del="SelfBot" src="https://i.goopics.net/z3hs7g.jpg">
+
 # SelfBot
 A self-discord bot written in Python
-[![Replit](https://i.goopics.net/cqqu53.png)](https://replit.com)
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
-![logo](https://i.goopics.net/z3hs7g.jpg)
+
+[![Run on Repl.it](https://repl.it/badge/github/plibither8/2048.cpp)](https://repl.it/github/SENPAi-03/SelfBot)
+<br/>
+![GitHub stars](https://img.shields.io/github/stars/SENPAi-03/SelfBot?style=social)
+![GitHub forks](https://img.shields.io/github/forks/SENPAi-03/SelfBot?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/SENPAi-03/SelfBot?style=social)
+![GitHub followers](https://img.shields.io/github/followers/SENPAi-03?style=social)
 
 # Discord SelfBot 
 
-Discovery this may ban your account
-Use it on your risk
+| :exclamation: | This is very important  |
+|---------------|:------------------------|
+
+
+| :zap:         | **Ignore at your own risk!** |
+|---------------|:-------------------------|
+| ⚠️ | Discord has become more strict about selfbot use and will ban without warning!|
+
 
 ## 📜 Requirements
 
