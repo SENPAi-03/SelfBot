@@ -31,7 +31,7 @@ pip install -r requirements.txt
 nano config.json
 ```
 
-### 🌀 [Replit](https://replit.com)
+### 🌀 [Replit](https://repl.it/github/SENPAi-03/SelfBot)
 
 Import this repo and go to `config.json` and fill it then press run
 
