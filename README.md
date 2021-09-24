@@ -4,11 +4,6 @@
 A self-discord bot written in Python
 
 [![Run on Repl.it](https://repl.it/badge/github/plibither8/2048.cpp)](https://repl.it/github/SENPAi-03/SelfBot)
-<br/>
-![GitHub stars](https://img.shields.io/github/stars/SENPAi-03/SelfBot?style=social)
-![GitHub forks](https://img.shields.io/github/forks/SENPAi-03/SelfBot?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/SENPAi-03/SelfBot?style=social)
-![GitHub followers](https://img.shields.io/github/followers/SENPAi-03?style=social)
 
 # Discord SelfBot 
 
