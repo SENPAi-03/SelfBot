@@ -1,7 +1,7 @@
 # SelfBot
 A self-discord bot written in Python
 [![Replit](https://i.goopics.net/cqqu53.png)](https://replit.com)
-
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 ![logo](https://i.goopics.net/z3hs7g.jpg)
 
 # Discord SelfBot 
