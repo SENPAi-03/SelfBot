@@ -1,6 +1,6 @@
 # SelfBot
 A self-discord bot written in Python
-[![Replit](https://www.vectorlogo.zone/util/preview.html?image=/logos/replit/replit-ar21.svg)](https://replit.com)
+[![Replit](https://i.goopics.net/cqqu53.png)](https://replit.com)
 
 ![logo](https://i.goopics.net/z3hs7g.jpg)
 
