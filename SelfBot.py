@@ -2352,7 +2352,7 @@ async def _ball(ctx, *, question):
     embed.add_field(name="Question", value=question, inline=False)
     embed.add_field(name="Answer", value=answer, inline=False)
     embed.set_thumbnail(url="https://www.horoscope.com/images-US/games/game-magic-8-ball-no-text.png")
-    await ctx.send(embed=embed)
+    await ctx.send(embed=embed) 
 
 
 @SelfBot.command(aliases=['slots', 'bet', "slotmachine"])
