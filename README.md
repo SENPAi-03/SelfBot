@@ -2,6 +2,7 @@
 
 # SelfBot
 A self-discord bot written in Python
+# Just letting everyone know, this shit barely works.
 
 [![Run on Repl.it](https://repl.it/badge/github/plibither8/2048.cpp)](https://repl.it/github/SENPAi-03/SelfBot)
 

